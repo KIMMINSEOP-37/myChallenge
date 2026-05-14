@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0011-container-with-most-water) |
 | [0643-maximum-average-subarray-i](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0643-maximum-average-subarray-i) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
