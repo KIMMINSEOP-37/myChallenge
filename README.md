@@ -42,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0704-binary-search) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
