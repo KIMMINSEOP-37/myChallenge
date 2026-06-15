@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0455-assign-cookies) |
@@ -121,4 +122,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
