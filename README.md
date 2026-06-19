@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0684-redundant-connection](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0684-redundant-connection) |
 ## Linked List
 |  |
 | ------- |
@@ -157,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0684-redundant-connection) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
