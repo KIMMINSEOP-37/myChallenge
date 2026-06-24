@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
