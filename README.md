@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0704-binary-search) |
 ## Design
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
