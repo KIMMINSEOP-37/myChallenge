@@ -124,10 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0746-min-cost-climbing-stairs) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
