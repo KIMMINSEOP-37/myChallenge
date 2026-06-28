@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0416-partition-equal-subset-sum) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0139-word-break) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -208,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
