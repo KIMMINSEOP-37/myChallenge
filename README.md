@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/1143-longest-common-subsequence) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0070-climbing-stairs) |
