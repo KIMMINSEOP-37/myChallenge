@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0416-partition-equal-subset-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0139-word-break) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/KIMMINSEOP-37/myChallenge/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
