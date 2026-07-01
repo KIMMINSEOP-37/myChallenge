@@ -16,5 +16,8 @@ public:
         }
         return cnt;
     }
-
+    // 해시맵 사용
+    // 빈도수, 값 인덱스 매핑, 이전값 기록,중복확인
+    // 모든 sum확인sum(i ~j) == prefix(j + 1) - prefix(i) == k
+    // prefix(i) == prefix(j + 1) - k == sum - k
 };
